@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import Hero from "@/components/Hero/Hero";
+import Slider from "@/components/Slider/Slider";
+import { SliderData } from "@/components/Slider/SliderData";
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -21,6 +23,7 @@ export default function Home() {
             or chemically by means of a light-sensitive
             material such as photographic film.'
         />
+      <Slider slides={SliderData} />
     </div>
   )
 }
