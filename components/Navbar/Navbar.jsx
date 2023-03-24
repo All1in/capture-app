@@ -5,7 +5,7 @@ import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
 const linkList = [
     {href: '/', element: 'Home'},
     {href: '/#gallery', element: 'Gallery'},
-    {href: '/portfolio', element: 'Home'},
+    {href: '/work', element: 'Work'},
     {href: '/contact', element: 'Contact'}
 ]
 
