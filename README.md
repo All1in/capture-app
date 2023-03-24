@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<div align="center">
+   <img height="auto" width="90%" src="https://www.educative.io/v2api/editorpage/6452289848475648/image/5294398307303424" alt="image"/>
+   <img height="300px" width="45%" src="https://hassancorrigan.com/static/4f9e4d81dd3f2d4c1a39d6ee27bbf002/ace28/nextjs-back-button.jpg" alt="image"/>
+   <img height="300px" width="45%" src="https://www.fastcomet.com/blog/wp-content/uploads/2022/04/Nextjs_vs_React.png" alt="image"/>
+</div> 
+
 ## Getting Started
 
 First, run the development server:
@@ -31,8 +37,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
